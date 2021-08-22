@@ -9,7 +9,7 @@
  
  Please download these files if you need them from GrabCAD as I do not want to violate their licence. 
  
- In this project I did not like that is hold in one piece by screws and it is using 9V battery so I started to model my own parts and finished with completely new useless box. I´m using Arduino code and servo arm in my box. Many thanks to **grafalex** that he provided his project with STEP file. 
+ In this project I did not like that is hold in one piece by screws and it is using 9V battery so I started to model my own parts and finished with completely new useless box. I´m using Arduino code and servo arm in my box from original project. Many thanks to **grafalex** that he provided his project with STEP file. 
  
  For this project you will need following items: 
  
